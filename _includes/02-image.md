@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image](https://technologyconversations.files.wordpress.com/2015/10/github.png?w=625)
